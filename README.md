@@ -6,9 +6,11 @@ Base docker image to run **Python** applications in [`azk`](http://azk.io)
 Versions (tags)
 ---
 
+<versions>
 - [`latest`, `3`, `3.4`, `3.4.3`, `3.4.3rc1`](https://github.com/azukiapp/docker-python/blob/master/3.4/Dockerfile)
 - [`3.3`, `3.3.6`](https://github.com/azukiapp/docker-python/blob/master/3.3/Dockerfile)
 - [`2`, `2.7`, `2.7.9`](https://github.com/azukiapp/docker-python/blob/master/2.7/Dockerfile)
+</versions>
 
 Image content:
 ---
